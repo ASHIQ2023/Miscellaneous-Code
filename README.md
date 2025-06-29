@@ -22,11 +22,11 @@ A comprehensive guide to using the **Module Documentation Tool** - a Python util
 ## 🎯 Overview
 
 This tool provides instant documentation for any Python module, displaying:  
-- ✅ All available functions and methods  
-- ✅ Function signatures and parameters  
-- ✅ Docstrings and descriptions  
-- ✅ Module structure and hierarchy  
-- ✅ Usage examples and code snippets  
+✅ All available functions and methods  
+✅ Function signatures and parameters  
+✅ Docstrings and descriptions  
+✅ Module structure and hierarchy  
+✅ Usage examples and code snippets  
 
 Perfect for developers who need quick reference documentation for Python libraries!
 
