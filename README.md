@@ -12,10 +12,10 @@ A comprehensive guide to using the **Module Documentation Tool** - a Python util
 - [Overview](#-overview)  
 - [Method 1: Local Installation](#-method-1-local-installation)  
 - [Method 2: Online Execution](#-method-2-online-execution)  
-- [Usage Examples](#-usage-examples)   
-- [Requirements](#-requirements)  
-- [Troubleshooting](#-troubleshooting)  
-- [FAQ](#-faq)  
+<!-- - [Usage Examples](#-usage-examples)   -->
+<!-- - [Requirements](#-requirements)  -->
+<!-- - [Troubleshooting](#-troubleshooting) -->  
+<!-- - [FAQ](#-faq)  -->
 
 ---
 
