@@ -3,7 +3,7 @@
 A comprehensive guide to using the **Module Documentation Tool** - a Python utility that generates detailed documentation for any installed module.
 
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)   
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/ASHIQ2023/Miscellanous_code)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/ASHIQ2023/Miscellaneous-Code)
 
 ---
 
